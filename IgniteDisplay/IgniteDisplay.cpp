@@ -1,4 +1,4 @@
-// IgniteDisplay.cpp‚“
+// IgniteDisplay.cpp
 
 #include "stdafx.h"
 #include "windows.h"
